@@ -2,7 +2,7 @@
 
 Pricer analyzes a log file, which consists of buy and sell orders placed
 in a stock market. Pricer takes two command-line arguments. The first is target-size,
-which tracks the profit or loss which would be made if "target-size" shares were bought
+which tracks the income or expense which would be incurred if "target-size" shares were bought
 or sold. The second is an optional filename to check Pricers output against a known good
 output log file. Pricer reads the log file from std.in, and writes to std.out.
 
