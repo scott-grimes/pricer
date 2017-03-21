@@ -13,12 +13,12 @@ First Unzip pricer.in.gz
 
 Then call the program as follows:
 
-#Java:
+Java:
 Without Comparison - java Pricer 10000 pricer.out.10000 <pricer.in >myOut.txt
 
 With Comparison    - java Pricer 10000 <pricer.in >myOut.txt
 
-#Python:
+Python:
 Without Comparison - python Pricer.py 10000 pricer.out.10000 <pricer.in >myOut.txt
 
 With Comparison    - python Pricer.py 10000 <pricer.in >myOut.txt
