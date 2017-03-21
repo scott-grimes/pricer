@@ -11,18 +11,22 @@ See the "Order Book Programming Problem" pdf file for more info
 Example:
 First Unzip pricer.in.gz
 
-Then call the program as follows:
+Then call the program as follows in java or python:
 
 Java:
 
-Without Comparison - java Pricer 10000 pricer.out.10000 <pricer.in >myOut.txt
+java Pricer 10000 pricer.out.10000 <pricer.in >myOut.txt
 
-With Comparison    - java Pricer 10000 <pricer.in >myOut.txt
+or
+
+java Pricer 10000 <pricer.in >myOut.txt
 
 Python:
 
-Without Comparison - python Pricer.py 10000 pricer.out.10000 <pricer.in >myOut.txt
+python Pricer.py 10000 pricer.out.10000 <pricer.in >myOut.txt
 
-With Comparison    - python Pricer.py 10000 <pricer.in >myOut.txt
+or
+
+python Pricer.py 10000 <pricer.in >myOut.txt
 
 A sample input/output set of documents is also availible which is easy to follow
